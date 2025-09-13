@@ -1,4 +1,4 @@
-**Password-Strength-Checker**
+## Password-Strength-Checker
 
 **A beautiful, interactive password strength checker with advanced features and stunning animations**
 
