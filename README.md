@@ -1,8 +1,8 @@
-css&logoColor=white)
+**Password-Strength-Checker**
 
 **A beautiful, interactive password strength checker with advanced features and stunning animations**
 
-[🚀 Live Demo](#) • [📖 Documentation](#features) • [🎯 Features](#features) • [🛠️ Installation](#installation)
+[🚀 Live Demo](#) • [🎯 Features](#features) • [🛠️ Installation](#installation)
 
 </div>
 
